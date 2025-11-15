@@ -1,0 +1,31 @@
+DATE,PRICE(USD),AVERAGE
+2025-11-14,99697,102798.875
+2025-11-13,101663,102999.375
+2025-11-12,101663,103278
+2025-11-11,102997,103269
+2025-11-10,105997,103712.875
+2025-11-09,104720,104293.25
+2025-11-08,102282,104961.25
+2025-11-07,103372,105344
+2025-11-06,101301,105672.6667
+2025-11-05,103892,106547
+2025-11-04,101591,107210.75
+2025-11-03,106548,109084
+2025-11-02,110640,110352
+2025-11-01,110064,110064
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+"Day 9: Added BTC daily price and calculated my first moving average (MA). 
+The moving average shows the trend more clearly and removes noise. 
+BTC is still above the MA line, which signals continuation of the current trend.",,
